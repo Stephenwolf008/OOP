@@ -10,7 +10,7 @@ public:
     Rectangle(){
         Set();
     }
-    Set(){float diagonal[2],sides[4];int a=0,b=0;float l,w;
+   Void Set(){float diagonal[2],sides[4];int a=0,b=0;float l,w;
         //checking for co-ordinates in range.
     for(int i=0;i<4;i++){
         cin>>x[i]>>y[i];
