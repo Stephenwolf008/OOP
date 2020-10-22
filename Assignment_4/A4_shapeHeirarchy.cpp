@@ -9,7 +9,7 @@
                                TwoDShape                                                           ThreeDShape
                                      |                                                                  |
                                      |                                                                  |
-                      ---------------------------                                             ------------------------
+                      ---------------------------                                            --------------------------
                       |                         |                                            |                        |
                       |                         |                                            |                        |
                 (Derived Class)          (Derived Class)                             (Derived Class)          (Derived CLass)
