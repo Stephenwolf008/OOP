@@ -12,7 +12,6 @@
                             |
                             |
                    Square(Derived Class)
-
 */
 #include <iostream>
 using namespace std;
